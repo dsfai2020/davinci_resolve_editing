@@ -2,6 +2,18 @@ DAVINCI RESOLVE EDITING
 
 Git Large File Storage (LFS) is an extension of Git that helps manage large binary files more efficiently within a Git repository. It's especially useful for version controlling multimedia assets, such as video files, images and Audio.
 
+First:
+	In the effects tab, right click and create a fusion composition.
+
+Next:
+	Drag the fusion composition into the edit tab.  Right click it and open it up in the fusion page.
+
+Next:
+	Inside of the Fusion page, make sure that the correct fusion is displaying.  Once you like it, select File, Export, Fusion Composition and save it in a folder that you will house future compositions in.
+
+Finally:
+	If you would like to use this fusion comp again in other projects all you have to do is go to File, Import, Fusion Composition and locate the file that .comp file that you need.
+
 This Repository uses Git LFS to manage Fusion Compositions.  
 If you'd like to get started from scratch using your own repository you can Either fork this repostiory or run the following commands.
 
