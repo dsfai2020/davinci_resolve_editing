@@ -35,3 +35,5 @@ Next:
 IF you're not sure that you have git lfs installed run the following commands in the terminal.
 	git lfs version
 	git lfs status
+
+ ![image](https://github.com/dsfai2020/davinci_resolve_editing/assets/60169737/3f5366bf-fe2d-455e-ba7c-b41ba899c7e0)
